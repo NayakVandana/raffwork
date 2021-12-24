@@ -271,7 +271,7 @@ text-align: center;
 {
     background-color: #252525;
     margin:0px 10px;
-    padding:20px;
+    padding:70px;
      
 }
 .box11{
@@ -282,17 +282,37 @@ text-align: center;
 
    
 .box22{
-    
-   
-}
-.box22 span{
-  
     background-color: #FFB320;
     position: absolute;
     top: 0px;
-    left: 0px;
+    left: 9px;
+   
+  
+   text-align: center;
+ 
+   font-size: 20px;
+   line-height: normal;
 
+   
+
+   
 }
+.box22 span{
+    display: block;
+    padding: 9px 9px;
+    
+}
+.boxx2{
+display: inline-block;
+    background-color: #ee821c;
+    text-align: center;
+ 
+   font-size: 20px;
+   line-height: normal;
+   padding: 9px 9px;
+   margin-left: 9px;
+}
+
 
 
 
