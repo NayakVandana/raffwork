@@ -170,6 +170,7 @@ nav .icon
 {
     background-image: url("../img/section5bg.png");
     background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     padding:200px 0px;
     background-color: #EEF2F6;
@@ -263,6 +264,8 @@ text-align: center;
     color:white;
     font-size: 14px;
 }
+
+
 #section6 span
 {
     color:rgba(180, 180, 180, 0.733);
@@ -312,6 +315,12 @@ display: inline-block;
    padding: 9px 9px;
    margin-left: 9px;
 }
+#section7{
+    background-image: url("../img/section6bg.png");
+    padding:100px 0px;
+}
+
+
 
 
 
